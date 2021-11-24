@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Swept\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Swept\\.nuget\\packages"
+    ]
+  }
+}

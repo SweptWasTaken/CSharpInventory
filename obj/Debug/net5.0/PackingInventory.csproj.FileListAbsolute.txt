@@ -1,0 +1,16 @@
+C:\Users\Swept\RiderProjects\PackingInventory\bin\Debug\net5.0\PackingInventory.exe
+C:\Users\Swept\RiderProjects\PackingInventory\bin\Debug\net5.0\PackingInventory.deps.json
+C:\Users\Swept\RiderProjects\PackingInventory\bin\Debug\net5.0\PackingInventory.runtimeconfig.json
+C:\Users\Swept\RiderProjects\PackingInventory\bin\Debug\net5.0\PackingInventory.runtimeconfig.dev.json
+C:\Users\Swept\RiderProjects\PackingInventory\bin\Debug\net5.0\PackingInventory.dll
+C:\Users\Swept\RiderProjects\PackingInventory\bin\Debug\net5.0\ref\PackingInventory.dll
+C:\Users\Swept\RiderProjects\PackingInventory\bin\Debug\net5.0\PackingInventory.pdb
+C:\Users\Swept\RiderProjects\PackingInventory\obj\Debug\net5.0\PackingInventory.csproj.AssemblyReference.cache
+C:\Users\Swept\RiderProjects\PackingInventory\obj\Debug\net5.0\PackingInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Swept\RiderProjects\PackingInventory\obj\Debug\net5.0\PackingInventory.AssemblyInfoInputs.cache
+C:\Users\Swept\RiderProjects\PackingInventory\obj\Debug\net5.0\PackingInventory.AssemblyInfo.cs
+C:\Users\Swept\RiderProjects\PackingInventory\obj\Debug\net5.0\PackingInventory.csproj.CoreCompileInputs.cache
+C:\Users\Swept\RiderProjects\PackingInventory\obj\Debug\net5.0\PackingInventory.dll
+C:\Users\Swept\RiderProjects\PackingInventory\obj\Debug\net5.0\ref\PackingInventory.dll
+C:\Users\Swept\RiderProjects\PackingInventory\obj\Debug\net5.0\PackingInventory.pdb
+C:\Users\Swept\RiderProjects\PackingInventory\obj\Debug\net5.0\PackingInventory.genruntimeconfig.cache
